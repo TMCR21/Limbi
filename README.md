@@ -9,3 +9,11 @@ Modderi:TMCommunity
 GTA 3 Limba Romana BUG FIX 1.0 for Mobile
 GTA SA Android În Limba Română V1.0
 
+
+| File | Description |
+| --- | --- |
+| git status |Jocul este fixat și rezolvat nu are bugurile GTA Vice City , în limba română android cu meniu custom și apk la fel
+
+Traducerea nu e tradusă de noi, doar am rezolvat bugurile
+  |
+| git diff | Show file differences that haven't been staged |
