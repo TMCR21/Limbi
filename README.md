@@ -1,6 +1,6 @@
 # GTA LIMBA ALL  
 Este un pack de limbi  pentru jocuri    de la rockstar games    mai exact  grand theft auto      
-[alt text](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
+![foxdemo](https://drive.google.com/file/d/1iHs80Sn9x74gUceNx_nnWNLbSRu5QTgD/view?usp=sharing)
 
 
 |📁 File | 📃Description |
