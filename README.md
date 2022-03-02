@@ -1,7 +1,7 @@
 # GTA LIMBA ALL  
 ![GTA PACK LIMBII](https://user-images.githubusercontent.com/94117117/156138567-e51d7b21-105b-491f-b56c-134d7739b7eb.jpg)
 
-Este un pack de limbi  pentru jocuri    de la rockstar games    mai exact  grand theft auto      
+Este un pack de limbi  pentru jocuri    de la rockstar games    mai exact  grand theft auto    
 |📁 File | 📃Description |
 | --- | --- |
 | GTA Vice Limba Română Bug Fix 1.0 for Mobile  |Jocul este fixat și rezolvat nu are bugurile GTA Vice City , în limba română android cu meniu custom și apk la fel   Traducerea nu e tradusă de noi, doar am rezolvat bugurile|
